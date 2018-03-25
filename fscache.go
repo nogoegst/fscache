@@ -6,7 +6,7 @@ import (
 	"sync"
 	"sync/atomic"
 	"time"
-	
+
 	"gopkg.in/djherbis/stream.v1"
 )
 
